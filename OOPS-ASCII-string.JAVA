@@ -1,4 +1,4 @@
-public class OOPSBannerApp {
+public class OOPS-ASCII-string {
 
     public static void main(String[] args) {
 
