@@ -1,4 +1,4 @@
-public class OOPS-ASCII-string {
+public class OOPS-UC3{
 
     public static void main(String[] args) {
 
