@@ -1,4 +1,4 @@
-public class OOPS-UC3{
+public class OOPS{
 
     public static void main(String[] args) {
 
